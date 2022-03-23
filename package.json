@@ -1,0 +1,19 @@
+{
+  "name": "app-cantina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~4.17.3",
+    "dotenv": "^10.0.0",
+    "jwt-node": "^0.1.9",
+    "cors":"^2.8.5",
+    "pg-promise": "^10.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Martins",
+  "license": "ISC"
+}
